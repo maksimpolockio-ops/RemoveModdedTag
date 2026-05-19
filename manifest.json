@@ -1,7 +1,7 @@
 {
     "name": "RemoveModdedTag",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/maksimpolockio-ops/RemoveModdedTag",
+    "website_url": "https://github.com/PeaceDukeCmd/RemoveModdedTag",
     "description": "Removes the [Modded] tag from your lobby so more players can join",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
